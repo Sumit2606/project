@@ -365,7 +365,7 @@ export default function ProgressPage() {
                         </div>
                         {achievement.earned ? (
                           <div className="text-xs text-yellow-700 mt-2">
-                            Earned: {achievement.date ? new Date(achievement.date).toLocaleDateString() : "N/A"}
+                            Earned: {new Date(achievement.date).toLocaleDateString()}
                           </div>
                         ) : (
                           <div className="mt-2">
