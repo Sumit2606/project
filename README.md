@@ -2,7 +2,7 @@
 
 ``` bash
 # clone the repo
-$ git clone https://github.com/coreui/coreui-free-react-admin-template.git my-project
+$ git clone https://github.com/Sumit2606/project.git my-project
 
 # go into app's directory
 $ cd my-project
@@ -19,17 +19,17 @@ $ npm start
 $ npm run dev
 ```
 
-<!-- Navigate to [http://localhost:3000](http://localhost:3000). The app will automatically reload if you change any of the source files. -->
+Navigate to [http://localhost:3000](http://localhost:3000). The app will automatically reload if you change any of the source files.
 
 ### Build
 
-<!-- Run `build` to build the project. The build artifacts will be stored in the `build/` directory. -->
+Run `build` to build the project. The build artifacts will be stored in the `build/` directory.
 
 ```bash
 # build for production with minification
 $ npm run build
 ```
-<!-- Run `start` to start the project. The build artifacts will be used from the `.next/` directory. -->
+Run `start` to start the project. The build artifacts will be used from the `.next/` directory.
 
 ```bash
 # start for production 
